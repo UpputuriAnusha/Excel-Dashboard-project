@@ -18,6 +18,16 @@ The dataset contains historical stock market data of Amazon including the follow
 
 •	Adj Close – Adjusted closing price after dividends and stock splits
 
-•	Volume – Total number of shares traded
+•	Volume – Total number of shares tradedes
+
+Tools & Technologies Used
+
+•	Microsoft Excel
+•	Pivot Tables
+•	Pivot Charts
+•	Slicers (Day Name, Month Name)
+•	Data Cleaning
+•	Data Visualization
+•	Dashboard Design
 
 
