@@ -102,15 +102,19 @@ Key Insights
 1️⃣ Stable Opening and Closing Prices
 
 The average opening and closing prices are almost equal, indicating relatively stable daily trading behavior.
+
 2️⃣ Consistent High vs Low Range
 
 The difference between high and low prices is small, showing moderate daily volatility.
+
 3️⃣ Trading Volume Variation by Month
 
 Certain months show higher trading volumes, indicating increased investor activity.
+
 4️⃣ Yearly Growth Trend
 
 The adjusted closing price shows an upward trend over the years, suggesting long-term growth in Amazon’s stock value.
+
 5️⃣ Weekend Trading Pattern
 
 Higher price differences appear toward the end of the trading week compared to earlier days.
