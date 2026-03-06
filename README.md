@@ -1,8 +1,11 @@
 Project Objective:
+
 The objective of this project is to analyze historical stock data of Amazon and understand its price movements and trading patterns.. The dashboard helps in identifying daily, monthly, and yearly stock trends through clear data visualizations. This project aims to convert raw stock data into meaningful insights to support better financial analysis and decision-making. 
 
 Dataset Description
+
 The dataset contains historical stock market data of Amazon including the following fields:
+
 •	Date – Trading date
 •	Open – Price at which the stock opened
 •	High – Highest price during the day
