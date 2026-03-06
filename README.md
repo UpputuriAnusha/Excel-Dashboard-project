@@ -23,11 +23,17 @@ The dataset contains historical stock market data of Amazon including the follow
 Tools & Technologies Used
 
 •	Microsoft Excel
+
 •	Pivot Tables
+
 •	Pivot Charts
+
 •	Slicers (Day Name, Month Name)
+
 •	Data Cleaning
+
 •	Data Visualization
+
 •	Dashboard Design
 
 
