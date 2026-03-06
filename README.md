@@ -119,6 +119,10 @@ The adjusted closing price shows an upward trend over the years, suggesting long
 
 Higher price differences appear toward the end of the trading week compared to earlier days.
 
+Final Conclusion:
+
+The Amazon Stock Analysis Dashboard provides a comprehensive view of stock performance using Excel visualization tools.The analysis reveals that Amazon stock demonstrates steady growth over time with consistent trading patterns. The dashboard helps users quickly understand stock behavior and identify trends in price movements and trading volume.
+
 
 
 
