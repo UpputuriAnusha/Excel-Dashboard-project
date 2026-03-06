@@ -7,11 +7,17 @@ Dataset Description
 The dataset contains historical stock market data of Amazon including the following fields:
 
 •	Date – Trading date
+
 •	Open – Price at which the stock opened
+
 •	High – Highest price during the day
+
 •	Low – Lowest price during the day
+
 •	Close – Price at market close
+
 •	Adj Close – Adjusted closing price after dividends and stock splits
+
 •	Volume – Total number of shares traded
 
 
