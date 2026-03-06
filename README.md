@@ -1,16 +1,14 @@
-Project Process:
+Project Objective:
+The objective of this project is to analyze historical stock data of Amazon and understand its price movements and trading patterns.. The dashboard helps in identifying daily, monthly, and yearly stock trends through clear data visualizations. This project aims to convert raw stock data into meaningful insights to support better financial analysis and decision-making. 
 
-Data Collection: Collected historical Amazon stock market data containing price and volume information.
+Dataset Description
+The dataset contains historical stock market data of Amazon including the following fields:
+•	Date – Trading date
+•	Open – Price at which the stock opened
+•	High – Highest price during the day
+•	Low – Lowest price during the day
+•	Close – Price at market close
+•	Adj Close – Adjusted closing price after dividends and stock splits
+•	Volume – Total number of shares traded
 
-Data Cleaning: Removed unnecessary rows and handled missing values .Formatted columns such as date, price values, and volume.
-Extracted additional fields like day name, month, and year.
-
-Data Preparation: Organized the dataset into structured format for analysis. Created calculated fields for average prices and trading volume.
-
-Data Analysis: Used Pivot Tables to summarize stock performance by:Year,Day of the week,Month
-
-Dashboard Creation: Built interactive visualization using:
-Pivot charts
-KPIs
-Slicers for filtering data by year and month
 
