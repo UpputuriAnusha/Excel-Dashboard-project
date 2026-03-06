@@ -40,14 +40,17 @@ Project Process / Methodology
 
 Step 1: Data Collection
 Collected historical stock data of Amazon from financial datasets.
+
 Step 2: Data Cleaning
         •  Checked for missing values
         
         •  Formatted date columns
         
         •  Created additional columns such as day name, month name, and year
+        
  Step 3: Data Transformation
          Used Pivot Tables to calculate:
+         
          •	Average High Price
 
          •	Average Low Price
@@ -59,14 +62,22 @@ Step 2: Data Cleaning
          •	Average Adjusted Close Price
 
          •	Total Trading Volume
+         
   Step 4: Data Visualization
           Created multiple charts for better understanding:
+          
          •	Volume over day (Pie Chart)
+         
          •	High vs Low by Day (Bar Chart)
+         
          •	Trading Volume Analysis
+         
          •	Monthly Average Adjusted Close Price
+         
          •	Open vs High Price Comparison
+         
          •	Yearly Trend of Adjusted Close Price
+         
 Step 5: Dashboard Creation
         Designed an interactive dashboard with:
 
